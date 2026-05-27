@@ -12,4 +12,6 @@
     <enableActivities>true</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableSearch>true</enableSearch>
+    <enableReports>true</enableReports>
+    <allowInChatterGroups>false</allowInChatterGroups>
 </CustomObject>

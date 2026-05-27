@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Consent_Type__c</fullName><label>Consent Type</label><type>Picklist</type>
     <valueSet><valueSetDefinition><sorted>false</sorted>
-        <value><fullName>Program Participation</fullName><default>false</default><label>Program Participation</label></value>
+        <value><fullName>Program Participation</fullName><default>true</default><label>Program Participation</label></value>
         <value><fullName>HIPAA Authorization</fullName><default>false</default><label>HIPAA Authorization</label></value>
         <value><fullName>Data Sharing</fullName><default>false</default><label>Data Sharing</label></value>
         <value><fullName>Marketing Communications</fullName><default>false</default><label>Marketing Communications</label></value>

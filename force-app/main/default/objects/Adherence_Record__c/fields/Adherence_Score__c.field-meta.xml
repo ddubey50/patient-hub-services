@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Adherence_Score__c</fullName><label>Adherence Score</label><type>Number</type><precision>5</precision><scale>2</scale>
+    <fullName>Adherence_Score__c</fullName><label>Adherence Score</label><type>Number</type>
+    <precision>5</precision><scale>2</scale>
+    <required>false</required><unique>false</unique>
 </CustomField>

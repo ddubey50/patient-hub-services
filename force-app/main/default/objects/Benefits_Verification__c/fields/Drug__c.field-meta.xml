@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Drug__c</fullName><label>Drug</label><type>Lookup</type>
     <referenceTo>Drug__c</referenceTo>
-    <relationshipName>AE_Drug</relationshipName>
-    <relationshipLabel>Adverse Events</relationshipLabel>
+    <relationshipName>BV_Drug</relationshipName>
+    <relationshipLabel>BV Drug</relationshipLabel>
     <required>false</required>
 </CustomField>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Assigned_PSR__c</fullName><label>Assigned PSR</label><type>Lookup</type>
-    <referenceTo>User</referenceTo>
-    <relationshipName>PC_AssignedPSR</relationshipName>
+    <fullName>Drug__c</fullName><label>Drug</label><type>Lookup</type>
+    <referenceTo>Drug__c</referenceTo>
+    <relationshipName>PC_Drug</relationshipName>
     <relationshipLabel>Patient Cases</relationshipLabel>
     <required>false</required>
 </CustomField>

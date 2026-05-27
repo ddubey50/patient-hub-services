@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Enrollee__c</fullName><label>Enrollee</label><type>Lookup</type>
-    <referenceTo>CareProgramEnrollee</referenceTo>
+    <referenceTo>Contact</referenceTo>
+    <relationshipName>PA_Enrollee</relationshipName>
     <relationshipLabel>Prior Authorizations</relationshipLabel>
-    <relationshipName>Prior_Authorizations</relationshipName><required>true</required>
+    <required>false</required>
 </CustomField>

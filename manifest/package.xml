@@ -2,7 +2,8 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 
     <types>
-        <members>*</members>
+        <members>ProgramSetupService</members>
+        <members>ProgramSetupServiceTest</members>
         <name>ApexClass</name>
     </types>
 
@@ -23,20 +24,6 @@
     </types>
 
     <types>
-        <!-- CareProgram custom fields -->
-        <members>CareProgram.Therapeutic_Area__c</members>
-        <members>CareProgram.Program_Status__c</members>
-        <members>CareProgram.Program_Code__c</members>
-        <members>CareProgram.Max_Enrollment__c</members>
-        <members>CareProgram.HUB_Model__c</members>
-        <!-- CareProgramEnrollee custom fields -->
-        <members>CareProgramEnrollee.Enrollment_Channel__c</members>
-        <members>CareProgramEnrollee.Eligibility_Status__c</members>
-        <members>CareProgramEnrollee.Denial_Reason__c</members>
-        <members>CareProgramEnrollee.Drug__c</members>
-        <members>CareProgramEnrollee.Prescriber_NPI__c</members>
-        <members>CareProgramEnrollee.Insurance_Type__c</members>
-        <members>CareProgramEnrollee.eSignature_Status__c</members>
         <!-- Drug__c fields -->
         <members>Drug__c.Brand_Name__c</members>
         <members>Drug__c.Generic_Name__c</members>

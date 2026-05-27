@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Therapeutic_Area__c</fullName>
-    <label>Therapeutic Area</label>
-    <type>Text</type>
-    <length>255</length>
+    <fullName>Therapeutic_Area__c</fullName><label>Therapeutic Area</label><type>Text</type>
+    <length>255</length><required>false</required>
+    <unique>false</unique><externalId>false</externalId>
 </CustomField>

@@ -2,9 +2,18 @@
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <label>Drug Program</label>
     <pluralLabel>Drug Programs</pluralLabel>
-    <nameField><label>Drug Program Name</label><type>AutoNumber</type><displayFormat>DP-{0000}</displayFormat></nameField>
+    <nameField>
+        <displayFormat>DP-{00000}</displayFormat>
+        <label>Drug Program Number</label>
+        <startingNumber>1</startingNumber>
+        <type>AutoNumber</type>
+    </nameField>
     <deploymentStatus>Deployed</deploymentStatus>
-    <sharingModel>ControlledByParent</sharingModel>
+    <sharingModel>ReadWrite</sharingModel>
     <enableHistory>true</enableHistory>
+    <enableActivities>true</enableActivities>
     <enableBulkApi>true</enableBulkApi>
+    <enableSearch>true</enableSearch>
+    <enableReports>true</enableReports>
+    <allowInChatterGroups>false</allowInChatterGroups>
 </CustomObject>

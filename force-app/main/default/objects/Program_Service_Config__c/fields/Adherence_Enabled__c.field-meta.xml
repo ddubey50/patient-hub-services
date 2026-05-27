@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Adherence_Enabled__c</fullName><label>Adherence Enabled</label>
-    <type>Checkbox</type><defaultValue>false</defaultValue>
+    <fullName>Adherence_Enabled__c</fullName><label>Adherence Enabled</label><type>Checkbox</type>
+    <defaultValue>false</defaultValue>
 </CustomField>

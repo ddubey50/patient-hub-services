@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Enrollee__c</fullName><label>Enrollee</label><type>Lookup</type>
-    <referenceTo>Contact</referenceTo>
-    <relationshipName>Adherence_Enrollee</relationshipName>
+    <fullName>Drug__c</fullName><label>Drug</label><type>Lookup</type>
+    <referenceTo>Drug__c</referenceTo>
+    <relationshipName>Adherence_Drug</relationshipName>
     <relationshipLabel>Adherence Records</relationshipLabel>
     <required>false</required>
 </CustomField>

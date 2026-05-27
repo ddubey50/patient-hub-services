@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Nursing_Enabled__c</fullName><label>Nursing Enabled</label>
-    <type>Checkbox</type><defaultValue>false</defaultValue>
+    <fullName>Nursing_Enabled__c</fullName><label>Nursing Enabled</label><type>Checkbox</type>
+    <defaultValue>false</defaultValue>
 </CustomField>
