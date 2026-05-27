@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Visit_Type__c</fullName><label>Visit Type</label><type>Picklist</type>
+    <valueSet><valueSetDefinition><sorted>false</sorted>
+        <value><fullName>Injection Training</fullName><default>true</default><label>Injection Training</label></value>
+        <value><fullName>Disease Education</fullName><default>false</default><label>Disease Education</label></value>
+        <value><fullName>Home Infusion</fullName><default>false</default><label>Home Infusion</label></value>
+        <value><fullName>Follow Up</fullName><default>false</default><label>Follow Up</label></value>
+    </valueSetDefinition></valueSet>
+</CustomField>

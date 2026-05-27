@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Portal_Enabled__c</fullName><label>Portal Enabled</label>
+    <type>Checkbox</type><defaultValue>false</defaultValue>
+</CustomField>

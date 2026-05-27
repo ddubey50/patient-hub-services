@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Enrollment_Channel__c</fullName><label>Enrollment Channel</label><type>Picklist</type>
+    <valueSet><valueSetDefinition><sorted>false</sorted>
+        <value><fullName>HCP Portal</fullName><default>false</default><label>HCP Portal</label></value>
+        <value><fullName>Patient Portal</fullName><default>false</default><label>Patient Portal</label></value>
+        <value><fullName>Phone</fullName><default>false</default><label>Phone</label></value>
+        <value><fullName>Fax</fullName><default>false</default><label>Fax</label></value>
+        <value><fullName>eFax OCR</fullName><default>false</default><label>eFax OCR</label></value>
+    </valueSetDefinition></valueSet>
+</CustomField>

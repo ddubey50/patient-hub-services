@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>HUB_Model__c</fullName><label>HUB Model</label>
+    <type>Picklist</type>
+    <valueSet><valueSetDefinition><sorted>false</sorted>
+        <value><fullName>Full Service</fullName><default>true</default><label>Full Service</label></value>
+        <value><fullName>Light Touch</fullName><default>false</default><label>Light Touch</label></value>
+        <value><fullName>Digital Only</fullName><default>false</default><label>Digital Only</label></value>
+    </valueSetDefinition></valueSet>
+</CustomField>

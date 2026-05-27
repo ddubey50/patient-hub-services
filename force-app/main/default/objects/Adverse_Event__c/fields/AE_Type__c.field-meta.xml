@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AE_Type__c</fullName><label>AE Type</label><type>Picklist</type>
+    <valueSet><valueSetDefinition><sorted>false</sorted>
+        <value><fullName>Adverse Event</fullName><default>true</default><label>Adverse Event</label></value>
+        <value><fullName>Product Complaint</fullName><default>false</default><label>Product Complaint</label></value>
+        <value><fullName>Special Situation</fullName><default>false</default><label>Special Situation</label></value>
+    </valueSetDefinition></valueSet>
+</CustomField>

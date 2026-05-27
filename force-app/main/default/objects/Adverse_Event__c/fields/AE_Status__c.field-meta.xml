@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AE_Status__c</fullName><label>AE Status</label><type>Picklist</type>
+    <valueSet><valueSetDefinition><sorted>false</sorted>
+        <value><fullName>Open</fullName><default>true</default><label>Open</label></value>
+        <value><fullName>Submitted to PV</fullName><default>false</default><label>Submitted to PV</label></value>
+        <value><fullName>Follow Up Required</fullName><default>false</default><label>Follow Up Required</label></value>
+        <value><fullName>Closed</fullName><default>false</default><label>Closed</label></value>
+    </valueSetDefinition></valueSet>
+</CustomField>

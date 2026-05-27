@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Escalation_Tier__c</fullName><label>Escalation Tier</label><type>Picklist</type>
+    <valueSet><valueSetDefinition><sorted>false</sorted>
+        <value><fullName>PSR</fullName><default>true</default><label>PSR</label></value>
+        <value><fullName>Senior PSR</fullName><default>false</default><label>Senior PSR</label></value>
+        <value><fullName>Nurse</fullName><default>false</default><label>Nurse</label></value>
+        <value><fullName>Medical Director</fullName><default>false</default><label>Medical Director</label></value>
+    </valueSetDefinition></valueSet>
+</CustomField>

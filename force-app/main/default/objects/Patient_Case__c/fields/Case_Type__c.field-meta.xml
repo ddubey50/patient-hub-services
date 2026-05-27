@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Case_Type__c</fullName><label>Case Type</label><type>Picklist</type>
+    <valueSet><valueSetDefinition><sorted>false</sorted>
+        <value><fullName>Enrollment</fullName><default>false</default><label>Enrollment</label></value>
+        <value><fullName>Benefits Verification</fullName><default>false</default><label>Benefits Verification</label></value>
+        <value><fullName>Prior Authorization</fullName><default>false</default><label>Prior Authorization</label></value>
+        <value><fullName>Financial Assistance</fullName><default>false</default><label>Financial Assistance</label></value>
+        <value><fullName>Adherence</fullName><default>false</default><label>Adherence</label></value>
+        <value><fullName>Adverse Event</fullName><default>false</default><label>Adverse Event</label></value>
+        <value><fullName>General Inquiry</fullName><default>true</default><label>General Inquiry</label></value>
+    </valueSetDefinition></valueSet>
+</CustomField>
