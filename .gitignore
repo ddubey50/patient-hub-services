@@ -1,0 +1,25 @@
+# Salesforce
+.sfdx/
+.sf/
+
+# VS Code
+.vscode/settings.json
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+
+# Scratch org config
+config/project-scratch-def.json
+
+# Deploy results
+deploy-output/

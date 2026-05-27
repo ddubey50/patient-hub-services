@@ -1,0 +1,19 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "PatientHubServices",
+      "versionName": "Sprint 1",
+      "versionNumber": "1.0.0.NEXT"
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "62.0",
+  "plugins": {
+    "salesforcedx-vscode-core": {
+      "detectConflictsAtSync": true
+    }
+  }
+}
